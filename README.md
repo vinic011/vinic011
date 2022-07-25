@@ -1,7 +1,7 @@
 ### Hi there 👋
 - Vinícius José de Menezes Pereira
 - I’m currently learning DS and ML
-- Computer engeneering studant at ITA-SP
+- Computer engeneering student at ITA-SP
 - Contact: viniciusjosem11@gmail.com
 
 <div align="center">
